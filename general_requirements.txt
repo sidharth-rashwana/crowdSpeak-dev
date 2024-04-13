@@ -1,0 +1,17 @@
+awscli
+python-multipart
+fastapi
+uvicorn[standard]
+boto3
+python-jose
+python-dotenv
+loguru
+motor
+pydantic[email]
+requests
+passlib
+pytz
+orjson
+pytest
+pytest-asyncio
+jinja2
