@@ -1,10 +1,10 @@
 **Description**
 
-This project is used to implement broadcasting of messages among connected peers.
+This project provides a backend solution that enables the broadcasting of messages among connected peers, facilitating efficient and real-time communication within a network.
 
 **Tech Stack**
 
-Backend : FastAPI + Python + MongoDB + Docker
+FastAPI · Bash · Python (Programming Language) · Docker · WebSocket · Linux · Git · REST APIs · Postman · Computer Networking
 
 **Usage**
 
@@ -27,4 +27,4 @@ To run the project using Docker, follow these steps:
 **sudo docker-compose build**  
 **sudo docker-compose -f docker-compose.yaml up**
 
-This command will start the Docker containers specified in the `docker-compose.yaml` file, which may include the necessary dependencies and configurations for running the project.
+Note : Swagger-UI does not display websockets, they are indeed present within the application. To interact with websockets, please utilize Postman instead.
